@@ -2,7 +2,7 @@
   "name": "covid19_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lukas1us.github.io/covid19_app/",
+  "homepage": "https://lukas1us.github.io/Covid19_app/",
   "dependencies": {
     "@material-ui/core": "^4.9.14",
     "@testing-library/jest-dom": "^4.2.4",
