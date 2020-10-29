@@ -2,6 +2,8 @@
 
 Available on Gitub pages: https://lukas1us.github.io/Covid19_app/
 
+Data source from https://www.jhu.edu/ official API, link down below.
+
 ![global_chart](https://github.com/lukas1us/Covid19_app/blob/master/readme_github/covidapp_global.png)
 
 Covid19 App is my first react project. Inspiration for this project was youtube channel 'JavaScript Mastery' and his video - https://www.youtube.com/watch?v=khJlrj3Y6Ls.
